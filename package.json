@@ -1,0 +1,20 @@
+{
+  "name": "Advanced-Javascript-Consrtuctor-Word-Guess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarymt/Advanced-Javascript-Constructor-Word-Guess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clarymt/Advanced-Javascript-Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/clarymt/Advanced-Javascript-Constructor-Word-Guess#readme"
+}
